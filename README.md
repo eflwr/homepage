@@ -8,12 +8,8 @@ I designed this site as an expression of the [file over app philosophy](https://
 
 ## Tech Stack & Architecture
 
-- **Frontend:** Pure HTML and CSS. No build steps, no frameworks, and no dependencies.
-- **Hosting:** Deployed via [Cloudflare Pages](https://pages.cloudflare.com/). Because it consists entirely of static files, it can easily be migrated to almost any web hosting service or run locally off a storage drive.
-
-## Local Development
-
-To view or edit this site locally, simply clone the repository and open `index.html` in any web browser. 
+- **Frontend:** Just HTML and CSS.
+- **Hosting:** Deployed via [Cloudflare Workers](https://www.cloudflare.com/products/workers/). Because it consists entirely of static files, it can easily be migrated to almost any web hosting service or run locally by opening `index.html`.
 
 ## Inspiration
 
